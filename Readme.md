@@ -1,1 +1,1 @@
-Esse é um repositorio pra ensinar como funciona o git
+Saiba mais no link [globo.com](http://globo.com)
